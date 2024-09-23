@@ -44,3 +44,17 @@ int main()
 
     return (0);
 }
+
+
+/*
+// akash@DESKTOP-LD4J4EM:~/HandsOnList2$ ./a.out
+1.	 write (program 1)
+2.	 read (program 2)
+	 Enter choice: 1
+// akash@DESKTOP-LD4J4EM:~/HandsOnList2$ ./a.out
+1.	 write (program 1)
+2.	 read (program 2)
+	 Enter choice: 2
+Message from writer: Hello from writer
+
+*/

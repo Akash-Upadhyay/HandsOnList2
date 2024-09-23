@@ -35,3 +35,8 @@ int main()
     {
     }
 }
+
+// akash@DESKTOP-LD4J4EM:~/HandsOnList2$ ./a.out
+// Signal received
+// Signal received
+// ^C

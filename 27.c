@@ -72,3 +72,12 @@ int main()
 
     return (0);
 }
+
+
+// Choose a flag:
+// 1.) Use 0 as flag
+// 2.) Use IPC_NOWAIT as flag
+// => 1
+// Enter message type:
+// HELLO
+// Message - Hello

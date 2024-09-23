@@ -61,3 +61,7 @@ int main()
 
     return (0);
 }
+
+// akash@DESKTOP-LD4J4EM:~/HandsOnList2$ ./a.out
+// Enter text: HELLO
+// Data written to FIFO: HELLO

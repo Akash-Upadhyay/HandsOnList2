@@ -40,3 +40,13 @@ int main()
 
     return (0);
 }
+
+// Access Permissions - 666
+// Uid and gid of owner - 1000 1000
+// Uid and gid of creator - 1000 1000
+// Time of last message sent and received in queue - 0 0
+// Time of last change - 1726935626
+// Size of the queue - 0
+// No of messages in queue - 0
+// Max no. of bytes allowed in queue - 16384
+// Pid of the last msgsnd and msgrcv - 0 0

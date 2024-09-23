@@ -42,3 +42,8 @@ int main()
 }
 
 
+// Sending message to server...
+// Sent!
+// Press return key to read...
+
+// Message From server

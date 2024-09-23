@@ -39,3 +39,18 @@ int main()
 
     return(0);
 }
+
+// akash@DESKTOP-LD4J4EM:~/HandsOnList2$ ./a.out
+// Old limits
+// Soft - 0
+// Hard - 0
+// Error: Operation not permitted
+
+// akash@DESKTOP-LD4J4EM:~/HandsOnList2$ ./a.out
+// Old limits
+// Soft - 0
+// Hard - 0
+// New limits
+// Soft - 2
+// Hard - 3
+// 

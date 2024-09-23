@@ -38,3 +38,22 @@ int main()
 }
 
 
+
+// Enter message:
+// HELLO
+// Message sent successfully.
+
+
+// ------ Message Queues --------
+// key        msqid      owner      perms      used-bytes   messages    
+// 0x610200d4 0          ayyanpasha 666        240          3           
+
+ 
+// Enter message:
+// HELLO   
+// Message sent successfully.
+
+
+// ------ Message Queues --------
+// key        msqid      owner      perms      used-bytes   messages    
+// 0x610200d4 0          ayyanpasha 666        320          4 
